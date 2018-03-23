@@ -1,6 +1,8 @@
 package com.idophin.githubtest;
 
 import android.app.Activity;
+import android.os.Bundle;
+import android.support.annotation.Nullable;
 
 /**
  * 已提交
@@ -8,4 +10,8 @@ import android.app.Activity;
  */
 
 public class SubmitActivity extends Activity {
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+    }
 }
