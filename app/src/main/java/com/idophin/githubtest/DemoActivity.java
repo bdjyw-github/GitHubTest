@@ -10,4 +10,6 @@ public class DemoActivity extends Activity {
     private String ccc;
     //add tag103
     private String ddd;
+    //add tag105
+    private String eee;
 }
