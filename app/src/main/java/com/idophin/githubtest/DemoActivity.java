@@ -8,4 +8,6 @@ public class DemoActivity extends Activity {
     private String bbb;
     //add tag102
     private String ccc;
+    //add tag103
+    private String ddd;
 }
